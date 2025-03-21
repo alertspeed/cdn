@@ -1,6 +1,6 @@
 /* Background Image */
 body {
-    background: url("https://cdn.alertspeed.ai/keycloak/theme/alertspeed/img/alertspeedbackground.svg") no-repeat center center fixed;
+    background: url("https://cdn.alertspeed.ai/assets/keycloak/theme/alertspeed/img/alertspeedbackground.svg") no-repeat center center fixed;
     background-size: cover;
     background-color: #000;
     display: flex;
